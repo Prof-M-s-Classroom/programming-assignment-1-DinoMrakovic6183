@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
-#include "SpaceRoute.cpp"
+#include "SpaceRoute.h"
+
 
 using namespace std;
 
